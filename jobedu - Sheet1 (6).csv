@@ -1,0 +1,840 @@
+employment_matrix,education_needed
+"Total, all occupations",—
+  Chief executives,Bachelor's degree
+  General and operations managers,Bachelor's degree
+  Legislators[2],Bachelor's degree
+  Advertising and promotions managers,Bachelor's degree
+  Marketing managers,Bachelor's degree
+  Sales managers,Bachelor's degree
+  Public relations managers[2],Bachelor's degree
+  Fundraising managers[2],Bachelor's degree
+  Administrative services managers,Bachelor's degree
+  Facilities managers[2],Bachelor's degree
+  Computer and information systems managers,Bachelor's degree
+  Financial managers,Bachelor's degree
+  Industrial production managers,Bachelor's degree
+  Purchasing managers,Bachelor's degree
+"  Transportation, storage, and distribution managers",High school diploma or equivalent
+  Compensation and benefits managers,Bachelor's degree
+  Human resources managers,Bachelor's degree
+  Training and development managers,Bachelor's degree
+"  Farmers, ranchers, and other agricultural managers",High school diploma or equivalent
+  Construction managers,Bachelor's degree
+"  Education and childcare administrators, preschool and daycare",Bachelor's degree
+"  Education administrators, kindergarten through secondary",Master's degree
+"  Education administrators, postsecondary",Master's degree
+"  Education administrators, all other[2]",Bachelor's degree
+  Architectural and engineering managers,Bachelor's degree
+  Food service managers,High school diploma or equivalent
+  Gambling managers,High school diploma or equivalent
+"  Entertainment and recreation managers, except gambling[2]",Bachelor's degree
+  Lodging managers,High school diploma or equivalent
+  Medical and health services managers,Bachelor's degree
+  Natural sciences managers,Bachelor's degree
+  Postmasters and mail superintendents,High school diploma or equivalent
+"  Property, real estate, and community association managers",High school diploma or equivalent
+  Social and community service managers,Bachelor's degree
+  Emergency management directors,Bachelor's degree
+  Funeral home managers,Associate's degree
+"  Personal service managers, all other[2]",High school diploma or equivalent
+"  Managers, all other[2]",Bachelor's degree
+"  Agents and business managers of artists, performers, and athletes",Bachelor's degree
+  Buyers and purchasing agents,Bachelor's degree
+"  Claims adjusters, examiners, and investigators",High school diploma or equivalent
+"  Insurance appraisers, auto damage",Postsecondary nondegree award
+  Compliance officers,Bachelor's degree
+  Cost estimators,Bachelor's degree
+  Human resources specialists,Bachelor's degree
+  Farm labor contractors,No formal educational credential
+  Labor relations specialists,Bachelor's degree
+  Logisticians,Bachelor's degree
+  Project management specialists[2],Bachelor's degree
+  Management analysts,Bachelor's degree
+"  Meeting, convention, and event planners",Bachelor's degree
+  Fundraisers,Bachelor's degree
+"  Compensation, benefits, and job analysis specialists",Bachelor's degree
+  Training and development specialists,Bachelor's degree
+  Market research analysts and marketing specialists,Bachelor's degree
+"  Business operations specialists, all other[2]",Bachelor's degree
+  Accountants and auditors,Bachelor's degree
+  Property appraisers and assessors[2],Bachelor's degree
+  Budget analysts,Bachelor's degree
+  Credit analysts,Bachelor's degree
+  Financial and investment analysts[2],Bachelor's degree
+  Personal financial advisors,Bachelor's degree
+  Insurance underwriters,Bachelor's degree
+  Financial risk specialists[2],Bachelor's degree
+  Financial examiners,Bachelor's degree
+  Credit counselors,Bachelor's degree
+  Loan officers,Bachelor's degree
+"  Tax examiners and collectors, and revenue agents",Bachelor's degree
+  Tax preparers,High school diploma or equivalent
+"  Financial specialists, all other[2]",Bachelor's degree
+  Computer systems analysts,Bachelor's degree
+  Information security analysts,Bachelor's degree
+  Computer and information research scientists,Master's degree
+  Computer network support specialists,Associate's degree
+  Computer user support specialists,"Some college, no degree"
+  Computer network architects,Bachelor's degree
+  Database administrators,Bachelor's degree
+  Database architects,Bachelor's degree
+  Network and computer systems administrators,Bachelor's degree
+  Computer programmers,Bachelor's degree
+  Software developers[2],Bachelor's degree
+  Software quality assurance analysts and testers,Bachelor's degree
+  Web developers,Bachelor's degree
+  Web and digital interface designers[2],Bachelor's degree
+"  Computer occupations, all other[2]",Bachelor's degree
+  Actuaries,Bachelor's degree
+  Mathematicians,Master's degree
+  Operations research analysts,Bachelor's degree
+  Statisticians,Master's degree
+  Data scientists[2],Bachelor's degree
+"  Mathematical science occupations, all other[2]",Bachelor's degree
+"  Architects, except landscape and naval",Bachelor's degree
+  Landscape architects,Bachelor's degree
+  Cartographers and photogrammetrists,Bachelor's degree
+  Surveyors,Bachelor's degree
+  Aerospace engineers,Bachelor's degree
+  Agricultural engineers,Bachelor's degree
+  Bioengineers and biomedical engineers,Bachelor's degree
+  Chemical engineers,Bachelor's degree
+  Civil engineers,Bachelor's degree
+  Computer hardware engineers,Bachelor's degree
+  Electrical engineers,Bachelor's degree
+"  Electronics engineers, except computer",Bachelor's degree
+  Environmental engineers,Bachelor's degree
+"  Health and safety engineers, except mining safety engineers and inspectors",Bachelor's degree
+  Industrial engineers,Bachelor's degree
+  Marine engineers and naval architects,Bachelor's degree
+  Materials engineers,Bachelor's degree
+  Mechanical engineers,Bachelor's degree
+"  Mining and geological engineers, including mining safety engineers",Bachelor's degree
+  Nuclear engineers,Bachelor's degree
+  Petroleum engineers,Bachelor's degree
+"  Engineers, all other[2]",Bachelor's degree
+  Architectural and civil drafters,Associate's degree
+  Electrical and electronics drafters,Associate's degree
+  Mechanical drafters,Associate's degree
+"  Drafters, all other[2]",Associate's degree
+  Aerospace engineering and operations technologists and technicians,Associate's degree
+  Civil engineering technologists and technicians,Associate's degree
+  Electrical and electronic engineering technologists and technicians,Associate's degree
+  Electro-mechanical and mechatronics technologists and technicians,Associate's degree
+  Environmental engineering technologists and technicians,Associate's degree
+  Industrial engineering technologists and technicians,Associate's degree
+  Mechanical engineering technologists and technicians,Associate's degree
+  Calibration technologists and technicians[2],Associate's degree
+"  Engineering technologists and technicians, except drafters, all other[2]",Associate's degree
+  Surveying and mapping technicians,High school diploma or equivalent
+  Animal scientists,Bachelor's degree
+  Food scientists and technologists,Bachelor's degree
+  Soil and plant scientists,Bachelor's degree
+  Biochemists and biophysicists,Doctoral or professional degree
+  Microbiologists,Bachelor's degree
+  Zoologists and wildlife biologists,Bachelor's degree
+"  Biological scientists, all other[2]",Bachelor's degree
+  Conservation scientists,Bachelor's degree
+  Foresters,Bachelor's degree
+  Epidemiologists,Master's degree
+"  Medical scientists, except epidemiologists",Doctoral or professional degree
+"  Life scientists, all other[2]",Bachelor's degree
+  Astronomers,Doctoral or professional degree
+  Physicists,Doctoral or professional degree
+  Atmospheric and space scientists,Bachelor's degree
+  Chemists,Bachelor's degree
+  Materials scientists,Bachelor's degree
+"  Environmental scientists and specialists, including health",Bachelor's degree
+"  Geoscientists, except hydrologists and geographers",Bachelor's degree
+  Hydrologists,Bachelor's degree
+"  Physical scientists, all other[2]",Bachelor's degree
+  Economists,Master's degree
+  Survey researchers,Master's degree
+  Industrial-organizational psychologists,Master's degree
+  Clinical and counseling psychologists,Doctoral or professional degree
+  School psychologists,Master's degree
+"  Psychologists, all other[2]",Master's degree
+  Sociologists,Master's degree
+  Urban and regional planners,Master's degree
+  Anthropologists and archeologists,Master's degree
+  Geographers,Bachelor's degree
+  Historians,Master's degree
+  Political scientists,Master's degree
+"  Social scientists and related workers, all other[2]",Bachelor's degree
+  Agricultural technicians,Associate's degree
+  Food science technicians,Associate's degree
+  Biological technicians,Bachelor's degree
+  Chemical technicians,Associate's degree
+"  Environmental science and protection technicians, including health",Associate's degree
+"  Geological technicians, except hydrologic technicians",Associate's degree
+  Hydrologic technicians[2],Associate's degree
+  Nuclear technicians,Associate's degree
+  Social science research assistants,Bachelor's degree
+  Forest and conservation technicians,Associate's degree
+  Forensic science technicians,Bachelor's degree
+"  Life, physical, and social science technicians, all other[2]",Associate's degree
+  Occupational health and safety specialists,Bachelor's degree
+  Occupational health and safety technicians,High school diploma or equivalent
+"  Educational, guidance, and career counselors and advisors",Master's degree
+  Marriage and family therapists,Master's degree
+  Rehabilitation counselors,Master's degree
+"  Substance abuse, behavioral disorder, and mental health counselors",Master's degree
+"  Counselors, all other[2]",Master's degree
+"  Child, family, and school social workers",Bachelor's degree
+  Healthcare social workers,Master's degree
+  Mental health and substance abuse social workers,Master's degree
+"  Social workers, all other[2]",Bachelor's degree
+  Health education specialists,Bachelor's degree
+  Probation officers and correctional treatment specialists,Bachelor's degree
+  Social and human service assistants,High school diploma or equivalent
+  Community health workers,High school diploma or equivalent
+"  Community and social service specialists, all other[2]",Bachelor's degree
+  Clergy,Bachelor's degree
+"  Directors, religious activities and education",Bachelor's degree
+"  Religious workers, all other[2]",Bachelor's degree
+  Lawyers,Doctoral or professional degree
+  Judicial law clerks,Doctoral or professional degree
+"  Administrative law judges, adjudicators, and hearing officers",Doctoral or professional degree
+"  Arbitrators, mediators, and conciliators",Bachelor's degree
+"  Judges, magistrate judges, and magistrates",Doctoral or professional degree
+  Paralegals and legal assistants,Associate's degree
+"  Title examiners, abstractors, and searchers",High school diploma or equivalent
+"  Legal support workers, all other[2]",Associate's degree
+"  Business teachers, postsecondary",Doctoral or professional degree
+"  Computer science teachers, postsecondary",Doctoral or professional degree
+"  Mathematical science teachers, postsecondary",Doctoral or professional degree
+"  Architecture teachers, postsecondary",Doctoral or professional degree
+"  Engineering teachers, postsecondary",Doctoral or professional degree
+"  Agricultural sciences teachers, postsecondary",Doctoral or professional degree
+"  Biological science teachers, postsecondary",Doctoral or professional degree
+"  Forestry and conservation science teachers, postsecondary",Doctoral or professional degree
+"  Atmospheric, earth, marine, and space sciences teachers, postsecondary",Doctoral or professional degree
+"  Chemistry teachers, postsecondary",Doctoral or professional degree
+"  Environmental science teachers, postsecondary",Doctoral or professional degree
+"  Physics teachers, postsecondary",Doctoral or professional degree
+"  Anthropology and archeology teachers, postsecondary",Doctoral or professional degree
+"  Area, ethnic, and cultural studies teachers, postsecondary",Doctoral or professional degree
+"  Economics teachers, postsecondary",Doctoral or professional degree
+"  Geography teachers, postsecondary",Doctoral or professional degree
+"  Political science teachers, postsecondary",Doctoral or professional degree
+"  Psychology teachers, postsecondary",Doctoral or professional degree
+"  Sociology teachers, postsecondary",Doctoral or professional degree
+"  Social sciences teachers, postsecondary, all other[2]",Doctoral or professional degree
+"  Health specialties teachers, postsecondary",Doctoral or professional degree
+"  Nursing instructors and teachers, postsecondary",Doctoral or professional degree
+"  Education teachers, postsecondary",Doctoral or professional degree
+"  Library science teachers, postsecondary",Doctoral or professional degree
+"  Criminal justice and law enforcement teachers, postsecondary",Doctoral or professional degree
+"  Law teachers, postsecondary",Doctoral or professional degree
+"  Social work teachers, postsecondary",Doctoral or professional degree
+"  Art, drama, and music teachers, postsecondary",Master's degree
+"  Communications teachers, postsecondary",Doctoral or professional degree
+"  English language and literature teachers, postsecondary",Doctoral or professional degree
+"  Foreign language and literature teachers, postsecondary",Doctoral or professional degree
+"  History teachers, postsecondary",Doctoral or professional degree
+"  Philosophy and religion teachers, postsecondary",Doctoral or professional degree
+"  Family and consumer sciences teachers, postsecondary",Doctoral or professional degree
+"  Recreation and fitness studies teachers, postsecondary",Doctoral or professional degree
+"  Career/technical education teachers, postsecondary",Bachelor's degree
+"  Postsecondary teachers, all other[2]",Doctoral or professional degree
+"  Preschool teachers, except special education",Associate's degree
+"  Kindergarten teachers, except special education",Bachelor's degree
+"  Elementary school teachers, except special education",Bachelor's degree
+"  Middle school teachers, except special and career/technical education",Bachelor's degree
+"  Career/technical education teachers, middle school",Bachelor's degree
+"  Secondary school teachers, except special and career/technical education",Bachelor's degree
+"  Career/technical education teachers, secondary school",Bachelor's degree
+"  Special education teachers, preschool",Bachelor's degree
+"  Special education teachers, kindergarten and elementary school[2]",Bachelor's degree
+"  Special education teachers, middle school",Bachelor's degree
+"  Special education teachers, secondary school",Bachelor's degree
+"  Special education teachers, all other[2]",Bachelor's degree
+"  Adult basic education, adult secondary education, and english as a second language instructors",Bachelor's degree
+  Self-enrichment teachers,High school diploma or equivalent
+"  Substitute teachers, short-term[2]",Bachelor's degree
+  Tutors,"Some college, no degree"
+"  Teachers and instructors, all other[2]",Bachelor's degree
+  Archivists,Master's degree
+  Curators,Master's degree
+  Museum technicians and conservators,Bachelor's degree
+  Librarians and media collections specialists,Master's degree
+  Library technicians,Postsecondary nondegree award
+  Farm and home management educators,Master's degree
+  Instructional coordinators,Master's degree
+"  Teaching assistants, postsecondary",Bachelor's degree
+"  Teaching assistants, except postsecondary[2]","Some college, no degree"
+"  Educational instruction and library workers, all other[2]",Bachelor's degree
+  Art directors,Bachelor's degree
+  Craft artists,No formal educational credential
+"  Fine artists, including painters, sculptors, and illustrators",Bachelor's degree
+  Special effects artists and animators,Bachelor's degree
+"  Artists and related workers, all other[2]",No formal educational credential
+  Commercial and industrial designers,Bachelor's degree
+  Fashion designers,Bachelor's degree
+  Floral designers,High school diploma or equivalent
+  Graphic designers,Bachelor's degree
+  Interior designers,Bachelor's degree
+  Merchandise displayers and window trimmers,High school diploma or equivalent
+  Set and exhibit designers,Bachelor's degree
+"  Designers, all other[2]",Bachelor's degree
+  Actors,"Some college, no degree"
+  Producers and directors,Bachelor's degree
+  Athletes and sports competitors,No formal educational credential
+  Coaches and scouts,Bachelor's degree
+"  Umpires, referees, and other sports officials",High school diploma or equivalent
+  Dancers,No formal educational credential
+  Choreographers,High school diploma or equivalent
+  Music directors and composers,Bachelor's degree
+  Musicians and singers,No formal educational credential
+"  Disc jockeys, except radio[2]",High school diploma or equivalent
+"  Entertainers and performers, sports and related workers, all other[2]",No formal educational credential
+  Broadcast announcers and radio disc jockeys,Bachelor's degree
+"  News analysts, reporters, and journalists",Bachelor's degree
+  Public relations specialists,Bachelor's degree
+  Editors,Bachelor's degree
+  Technical writers,Bachelor's degree
+  Writers and authors,Bachelor's degree
+  Interpreters and translators,Bachelor's degree
+  Court reporters and simultaneous captioners,Postsecondary nondegree award
+"  Media and communication workers, all other[2]",High school diploma or equivalent
+  Audio and video technicians,Postsecondary nondegree award
+  Broadcast technicians,Associate's degree
+  Sound engineering technicians,Postsecondary nondegree award
+  Lighting technicians[2],Postsecondary nondegree award
+  Photographers,High school diploma or equivalent
+"  Camera operators, television, video, and film",Bachelor's degree
+  Film and video editors,Bachelor's degree
+"  Media and communication equipment workers, all other[2]",High school diploma or equivalent
+  Chiropractors,Doctoral or professional degree
+"  Dentists, general",Doctoral or professional degree
+  Oral and maxillofacial surgeons,Doctoral or professional degree
+  Orthodontists,Doctoral or professional degree
+  Prosthodontists,Doctoral or professional degree
+"  Dentists, all other specialists[2]",Doctoral or professional degree
+  Dietitians and nutritionists,Bachelor's degree
+  Optometrists,Doctoral or professional degree
+  Pharmacists,Doctoral or professional degree
+  Physician assistants,Master's degree
+  Podiatrists,Doctoral or professional degree
+  Occupational therapists,Master's degree
+  Physical therapists,Doctoral or professional degree
+  Radiation therapists,Associate's degree
+  Recreational therapists,Bachelor's degree
+  Respiratory therapists,Associate's degree
+  Speech-language pathologists,Master's degree
+  Exercise physiologists,Bachelor's degree
+"  Therapists, all other[2]",Bachelor's degree
+  Veterinarians,Doctoral or professional degree
+  Registered nurses,Bachelor's degree
+  Nurse anesthetists,Master's degree
+  Nurse midwives,Master's degree
+  Nurse practitioners,Master's degree
+  Audiologists,Doctoral or professional degree
+  Anesthesiologists,Doctoral or professional degree
+  Cardiologists[2],Doctoral or professional degree
+  Dermatologists,Doctoral or professional degree
+  Emergency medicine physicians[2],Doctoral or professional degree
+  Family medicine physicians,Doctoral or professional degree
+  General internal medicine physicians,Doctoral or professional degree
+  Neurologists,Doctoral or professional degree
+  Obstetricians and gynecologists,Doctoral or professional degree
+"  Pediatricians, general",Doctoral or professional degree
+"  Physicians, pathologists",Doctoral or professional degree
+  Psychiatrists,Doctoral or professional degree
+  Radiologists,Doctoral or professional degree
+"  Physicians, all other[2]",Doctoral or professional degree
+"  Ophthalmologists, except pediatric",Doctoral or professional degree
+"  Orthopedic surgeons, except pediatric[2]",Doctoral or professional degree
+  Pediatric surgeons[2],Doctoral or professional degree
+"  Surgeons, all other[2]",Doctoral or professional degree
+  Acupuncturists,Master's degree
+  Dental hygienists,Associate's degree
+"  Healthcare diagnosing or treating practitioners, all other[2]",Master's degree
+  Clinical laboratory technologists and technicians,Bachelor's degree
+  Cardiovascular technologists and technicians,Associate's degree
+  Diagnostic medical sonographers,Associate's degree
+  Nuclear medicine technologists,Associate's degree
+  Radiologic technologists and technicians,Associate's degree
+  Magnetic resonance imaging technologists,Associate's degree
+  Medical dosimetrists[2],Bachelor's degree
+  Emergency medical technicians[2],Postsecondary nondegree award
+  Paramedics[2],Postsecondary nondegree award
+  Dietetic technicians,Associate's degree
+  Pharmacy technicians,High school diploma or equivalent
+  Psychiatric technicians,Postsecondary nondegree award
+  Surgical technologists,Postsecondary nondegree award
+  Veterinary technologists and technicians,Associate's degree
+  Ophthalmic medical technicians,Postsecondary nondegree award
+  Licensed practical and licensed vocational nurses,Postsecondary nondegree award
+  Medical records specialists[2],Postsecondary nondegree award
+"  Opticians, dispensing",High school diploma or equivalent
+  Orthotists and prosthetists,Master's degree
+  Hearing aid specialists,High school diploma or equivalent
+"  Health technologists and technicians, all other[2]",Postsecondary nondegree award
+  Health information technologists and medical registrars[2],Associate's degree
+  Athletic trainers,Master's degree
+  Genetic counselors,Master's degree
+  Surgical assistants,Postsecondary nondegree award
+"  Healthcare practitioners and technical workers, all other[2]",Postsecondary nondegree award
+  Home health and personal care aides,High school diploma or equivalent
+  Nursing assistants,Postsecondary nondegree award
+  Orderlies,High school diploma or equivalent
+  Psychiatric aides,High school diploma or equivalent
+  Occupational therapy assistants,Associate's degree
+  Occupational therapy aides,High school diploma or equivalent
+  Physical therapist assistants,Associate's degree
+  Physical therapist aides,High school diploma or equivalent
+  Massage therapists,Postsecondary nondegree award
+  Dental assistants,Postsecondary nondegree award
+  Medical assistants,Postsecondary nondegree award
+  Medical equipment preparers,High school diploma or equivalent
+  Medical transcriptionists,Postsecondary nondegree award
+  Pharmacy aides,High school diploma or equivalent
+  Veterinary assistants and laboratory animal caretakers,High school diploma or equivalent
+  Phlebotomists,Postsecondary nondegree award
+"  Healthcare support workers, all other[2]",High school diploma or equivalent
+  First-line supervisors of correctional officers,High school diploma or equivalent
+  First-line supervisors of police and detectives,High school diploma or equivalent
+  First-line supervisors of firefighting and prevention workers,Postsecondary nondegree award
+  First-line supervisors of security workers[2],High school diploma or equivalent
+"  First-line supervisors of protective service workers, all other[2]",High school diploma or equivalent
+  Firefighters,Postsecondary nondegree award
+  Fire inspectors and investigators,Postsecondary nondegree award
+  Forest fire inspectors and prevention specialists,High school diploma or equivalent
+  Bailiffs,High school diploma or equivalent
+  Correctional officers and jailers,High school diploma or equivalent
+  Detectives and criminal investigators,High school diploma or equivalent
+  Fish and game wardens,Bachelor's degree
+  Parking enforcement workers,High school diploma or equivalent
+  Police and sheriff's patrol officers,High school diploma or equivalent
+  Transit and railroad police,High school diploma or equivalent
+  Animal control workers,High school diploma or equivalent
+  Private detectives and investigators,High school diploma or equivalent
+  Gambling surveillance officers and gambling investigators,High school diploma or equivalent
+  Security guards,High school diploma or equivalent
+  Crossing guards and flaggers,No formal educational credential
+"  Lifeguards, ski patrol, and other recreational protective service workers",No formal educational credential
+  Transportation security screeners,High school diploma or equivalent
+  School bus monitors[2],High school diploma or equivalent
+"  Protective service workers, all other[2]",High school diploma or equivalent
+  Chefs and head cooks,High school diploma or equivalent
+  First-line supervisors of food preparation and serving workers,High school diploma or equivalent
+"  Cooks, fast food",No formal educational credential
+"  Cooks, institution and cafeteria",No formal educational credential
+"  Cooks, private household",Postsecondary nondegree award
+"  Cooks, restaurant",No formal educational credential
+"  Cooks, short order",No formal educational credential
+"  Cooks, all other[2]",No formal educational credential
+  Food preparation workers,No formal educational credential
+  Bartenders,No formal educational credential
+  Fast food and counter workers,No formal educational credential
+  Waiters and waitresses,No formal educational credential
+"  Food servers, nonrestaurant",No formal educational credential
+  Dining room and cafeteria attendants and bartender helpers,No formal educational credential
+  Dishwashers,No formal educational credential
+"  Hosts and hostesses, restaurant, lounge, and coffee shop",No formal educational credential
+"  Food preparation and serving related workers, all other[2]",No formal educational credential
+  First-line supervisors of housekeeping and janitorial workers,High school diploma or equivalent
+"  First-line supervisors of landscaping, lawn service, and groundskeeping workers",High school diploma or equivalent
+"  Janitors and cleaners, except maids and housekeeping cleaners",No formal educational credential
+  Maids and housekeeping cleaners,No formal educational credential
+"  Building cleaning workers, all other[2]",No formal educational credential
+  Pest control workers,High school diploma or equivalent
+  Landscaping and groundskeeping workers,No formal educational credential
+"  Pesticide handlers, sprayers, and applicators, vegetation",High school diploma or equivalent
+  Tree trimmers and pruners,High school diploma or equivalent
+"  Grounds maintenance workers, all other[2]",No formal educational credential
+  First-line supervisors of gambling services workers,High school diploma or equivalent
+"  First-line supervisors of entertainment and recreation workers, except gambling services[2]",High school diploma or equivalent
+  First-line supervisors of personal service workers,High school diploma or equivalent
+  Animal trainers,High school diploma or equivalent
+  Animal caretakers,High school diploma or equivalent
+  Gambling dealers,High school diploma or equivalent
+  Gambling and sports book writers and runners,High school diploma or equivalent
+"  Gambling service workers, all other[2]",High school diploma or equivalent
+  Motion picture projectionists,No formal educational credential
+"  Ushers, lobby attendants, and ticket takers",No formal educational credential
+  Amusement and recreation attendants,No formal educational credential
+  Costume attendants,High school diploma or equivalent
+"  Locker room, coatroom, and dressing room attendants",High school diploma or equivalent
+"  Entertainment attendants and related workers, all other[2]",High school diploma or equivalent
+  Embalmers,Associate's degree
+  Crematory operators[2],High school diploma or equivalent
+  Funeral attendants,High school diploma or equivalent
+"  Morticians, undertakers, and funeral arrangers",Associate's degree
+  Barbers,Postsecondary nondegree award
+"  Hairdressers, hairstylists, and cosmetologists",Postsecondary nondegree award
+"  Makeup artists, theatrical and performance",Postsecondary nondegree award
+  Manicurists and pedicurists,Postsecondary nondegree award
+  Shampooers,No formal educational credential
+  Skincare specialists,Postsecondary nondegree award
+  Baggage porters and bellhops,High school diploma or equivalent
+  Concierges,High school diploma or equivalent
+  Tour and travel guides,High school diploma or equivalent
+  Childcare workers,High school diploma or equivalent
+  Exercise trainers and group fitness instructors,High school diploma or equivalent
+  Recreation workers,High school diploma or equivalent
+  Residential advisors,High school diploma or equivalent
+"  Personal care and service workers, all other[2]",High school diploma or equivalent
+  First-line supervisors of retail sales workers,High school diploma or equivalent
+  First-line supervisors of non-retail sales workers,High school diploma or equivalent
+  Cashiers,No formal educational credential
+  Gambling change persons and booth cashiers,No formal educational credential
+  Counter and rental clerks,No formal educational credential
+  Parts salespersons,No formal educational credential
+  Retail salespersons,No formal educational credential
+  Advertising sales agents,High school diploma or equivalent
+  Insurance sales agents,High school diploma or equivalent
+"  Securities, commodities, and financial services sales agents",Bachelor's degree
+  Travel agents,High school diploma or equivalent
+"  Sales representatives of services, except advertising, insurance, financial services, and travel[2]",High school diploma or equivalent
+"  Sales representatives, wholesale and manufacturing, technical and scientific products",Bachelor's degree
+"  Sales representatives, wholesale and manufacturing, except technical and scientific products",High school diploma or equivalent
+  Demonstrators and product promoters,No formal educational credential
+  Models,No formal educational credential
+  Real estate brokers,High school diploma or equivalent
+  Real estate sales agents,High school diploma or equivalent
+  Sales engineers,Bachelor's degree
+  Telemarketers,No formal educational credential
+"  Door-to-door sales workers, news and street vendors, and related workers",No formal educational credential
+"  Sales and related workers, all other[2]",High school diploma or equivalent
+  First-line supervisors of office and administrative support workers,High school diploma or equivalent
+"  Switchboard operators, including answering service",High school diploma or equivalent
+  Telephone operators,High school diploma or equivalent
+"  Communications equipment operators, all other[2]",High school diploma or equivalent
+  Bill and account collectors,High school diploma or equivalent
+  Billing and posting clerks,High school diploma or equivalent
+"  Bookkeeping, accounting, and auditing clerks","Some college, no degree"
+  Gambling cage workers,High school diploma or equivalent
+  Payroll and timekeeping clerks,High school diploma or equivalent
+  Procurement clerks,High school diploma or equivalent
+  Tellers,High school diploma or equivalent
+"  Financial clerks, all other[2]",High school diploma or equivalent
+  Brokerage clerks,High school diploma or equivalent
+  Correspondence clerks,High school diploma or equivalent
+"  Court, municipal, and license clerks",High school diploma or equivalent
+"  Credit authorizers, checkers, and clerks",High school diploma or equivalent
+  Customer service representatives,High school diploma or equivalent
+"  Eligibility interviewers, government programs",High school diploma or equivalent
+  File clerks,High school diploma or equivalent
+"  Hotel, motel, and resort desk clerks",High school diploma or equivalent
+"  Interviewers, except eligibility and loan",High school diploma or equivalent
+"  Library assistants, clerical",High school diploma or equivalent
+  Loan interviewers and clerks,High school diploma or equivalent
+  New accounts clerks,High school diploma or equivalent
+  Order clerks,"Some college, no degree"
+"  Human resources assistants, except payroll and timekeeping",Associate's degree
+  Receptionists and information clerks,High school diploma or equivalent
+  Reservation and transportation ticket agents and travel clerks,High school diploma or equivalent
+"  Information and record clerks, all other[2]",High school diploma or equivalent
+  Cargo and freight agents,High school diploma or equivalent
+  Couriers and messengers,High school diploma or equivalent
+  Public safety telecommunicators,High school diploma or equivalent
+"  Dispatchers, except police, fire, and ambulance",High school diploma or equivalent
+"  Meter readers, utilities",High school diploma or equivalent
+  Postal service clerks,No formal educational credential
+  Postal service mail carriers,No formal educational credential
+"  Postal service mail sorters, processors, and processing machine operators",No formal educational credential
+"  Production, planning, and expediting clerks",High school diploma or equivalent
+"  Shipping, receiving, and inventory clerks",High school diploma or equivalent
+"  Weighers, measurers, checkers, and samplers, recordkeeping",High school diploma or equivalent
+  Executive secretaries and executive administrative assistants,High school diploma or equivalent
+  Legal secretaries and administrative assistants,High school diploma or equivalent
+  Medical secretaries and administrative assistants,High school diploma or equivalent
+"  Secretaries and administrative assistants, except legal, medical, and executive",High school diploma or equivalent
+  Data entry keyers,High school diploma or equivalent
+  Word processors and typists,High school diploma or equivalent
+  Desktop publishers,Associate's degree
+  Insurance claims and policy processing clerks,High school diploma or equivalent
+"  Mail clerks and mail machine operators, except postal service",High school diploma or equivalent
+"  Office clerks, general",High school diploma or equivalent
+"  Office machine operators, except computer",High school diploma or equivalent
+  Proofreaders and copy markers,Bachelor's degree
+  Statistical assistants,Bachelor's degree
+"  Office and administrative support workers, all other[2]",High school diploma or equivalent
+"  First-line supervisors of farming, fishing, and forestry workers",High school diploma or equivalent
+  Agricultural inspectors,Bachelor's degree
+  Animal breeders,High school diploma or equivalent
+"  Graders and sorters, agricultural products",No formal educational credential
+  Agricultural equipment operators,No formal educational credential
+"  Farmworkers and laborers, crop, nursery, and greenhouse",No formal educational credential
+"  Farmworkers, farm, ranch, and aquacultural animals",No formal educational credential
+"  Agricultural workers, all other[2]",No formal educational credential
+  Fishing and hunting workers,No formal educational credential
+  Forest and conservation workers,High school diploma or equivalent
+  Fallers,High school diploma or equivalent
+  Logging equipment operators,High school diploma or equivalent
+  Log graders and scalers,High school diploma or equivalent
+"  Logging workers, all other[2]",High school diploma or equivalent
+  First-line supervisors of construction trades and extraction workers,High school diploma or equivalent
+  Boilermakers,High school diploma or equivalent
+  Brickmasons and blockmasons,High school diploma or equivalent
+  Stonemasons,High school diploma or equivalent
+  Carpenters,High school diploma or equivalent
+  Carpet installers,No formal educational credential
+"  Floor layers, except carpet, wood, and hard tiles",No formal educational credential
+  Floor sanders and finishers,No formal educational credential
+  Tile and stone setters,No formal educational credential
+  Cement masons and concrete finishers,No formal educational credential
+  Terrazzo workers and finishers,High school diploma or equivalent
+  Construction laborers,No formal educational credential
+"  Paving, surfacing, and tamping equipment operators",High school diploma or equivalent
+  Pile driver operators,High school diploma or equivalent
+  Operating engineers and other construction equipment operators,High school diploma or equivalent
+  Drywall and ceiling tile installers,No formal educational credential
+  Tapers,No formal educational credential
+  Electricians,High school diploma or equivalent
+  Glaziers,High school diploma or equivalent
+"  Insulation workers, floor, ceiling, and wall",No formal educational credential
+"  Insulation workers, mechanical",High school diploma or equivalent
+"  Painters, construction and maintenance",No formal educational credential
+  Paperhangers,No formal educational credential
+  Pipelayers,No formal educational credential
+"  Plumbers, pipefitters, and steamfitters",High school diploma or equivalent
+  Plasterers and stucco masons,No formal educational credential
+  Reinforcing iron and rebar workers,High school diploma or equivalent
+  Roofers,No formal educational credential
+  Sheet metal workers,High school diploma or equivalent
+  Structural iron and steel workers,High school diploma or equivalent
+  Solar photovoltaic installers,High school diploma or equivalent
+"  Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",No formal educational credential
+  Helpers--carpenters,No formal educational credential
+  Helpers--electricians,High school diploma or equivalent
+"  Helpers--painters, paperhangers, plasterers, and stucco masons",No formal educational credential
+"  Helpers--pipelayers, plumbers, pipefitters, and steamfitters",High school diploma or equivalent
+  Helpers--roofers,No formal educational credential
+"  Helpers, construction trades, all other[2]",No formal educational credential
+  Construction and building inspectors,High school diploma or equivalent
+  Elevator and escalator installers and repairers,High school diploma or equivalent
+  Fence erectors,No formal educational credential
+  Hazardous materials removal workers,High school diploma or equivalent
+  Highway maintenance workers,High school diploma or equivalent
+  Rail-track laying and maintenance equipment operators,High school diploma or equivalent
+  Septic tank servicers and sewer pipe cleaners,High school diploma or equivalent
+  Miscellaneous construction and related workers[2],High school diploma or equivalent
+"  Derrick operators, oil and gas",No formal educational credential
+"  Rotary drill operators, oil and gas",No formal educational credential
+"  Service unit operators, oil and gas",No formal educational credential
+"  Excavating and loading machine and dragline operators, surface mining",High school diploma or equivalent
+"  Earth drillers, except oil and gas",High school diploma or equivalent
+"  Explosives workers, ordnance handling experts, and blasters",High school diploma or equivalent
+  Continuous mining machine operators,No formal educational credential
+"  Roof bolters, mining",High school diploma or equivalent
+"  Loading and moving machine operators, underground mining",No formal educational credential
+"  Underground mining machine operators, all other[2]",No formal educational credential
+"  Rock splitters, quarry",No formal educational credential
+"  Roustabouts, oil and gas",No formal educational credential
+  Helpers--extraction workers,High school diploma or equivalent
+"  Extraction workers, all other[2]",High school diploma or equivalent
+"  First-line supervisors of mechanics, installers, and repairers",High school diploma or equivalent
+"  Computer, automated teller, and office machine repairers","Some college, no degree"
+"  Radio, cellular, and tower equipment installers and repairers",Associate's degree
+"  Telecommunications equipment installers and repairers, except line installers",Postsecondary nondegree award
+  Avionics technicians,Postsecondary nondegree award
+"  Electric motor, power tool, and related repairers",High school diploma or equivalent
+"  Electrical and electronics installers and repairers, transportation equipment",Postsecondary nondegree award
+"  Electrical and electronics repairers, commercial and industrial equipment",Postsecondary nondegree award
+"  Electrical and electronics repairers, powerhouse, substation, and relay",Postsecondary nondegree award
+"  Electronic equipment installers and repairers, motor vehicles",High school diploma or equivalent
+  Audiovisual equipment installers and repairers,Postsecondary nondegree award
+  Security and fire alarm systems installers,High school diploma or equivalent
+  Aircraft mechanics and service technicians,Postsecondary nondegree award
+  Automotive body and related repairers,High school diploma or equivalent
+  Automotive glass installers and repairers,High school diploma or equivalent
+  Automotive service technicians and mechanics,Postsecondary nondegree award
+  Bus and truck mechanics and diesel engine specialists,High school diploma or equivalent
+  Farm equipment mechanics and service technicians,High school diploma or equivalent
+"  Mobile heavy equipment mechanics, except engines",High school diploma or equivalent
+  Rail car repairers,High school diploma or equivalent
+  Motorboat mechanics and service technicians,High school diploma or equivalent
+  Motorcycle mechanics,Postsecondary nondegree award
+  Outdoor power equipment and other small engine mechanics,High school diploma or equivalent
+  Bicycle repairers,High school diploma or equivalent
+  Recreational vehicle service technicians,High school diploma or equivalent
+  Tire repairers and changers,High school diploma or equivalent
+  Mechanical door repairers,High school diploma or equivalent
+"  Control and valve installers and repairers, except mechanical door",High school diploma or equivalent
+"  Heating, air conditioning, and refrigeration mechanics and installers",Postsecondary nondegree award
+  Home appliance repairers,High school diploma or equivalent
+  Industrial machinery mechanics,High school diploma or equivalent
+"  Maintenance workers, machinery",High school diploma or equivalent
+  Millwrights,High school diploma or equivalent
+"  Refractory materials repairers, except brickmasons",High school diploma or equivalent
+  Electrical power-line installers and repairers,High school diploma or equivalent
+  Telecommunications line installers and repairers,High school diploma or equivalent
+  Camera and photographic equipment repairers,High school diploma or equivalent
+  Medical equipment repairers,Associate's degree
+  Musical instrument repairers and tuners,High school diploma or equivalent
+  Watch and clock repairers,High school diploma or equivalent
+"  Precision instrument and equipment repairers, all other[2]",High school diploma or equivalent
+"  Maintenance and repair workers, general",High school diploma or equivalent
+  Wind turbine service technicians,Postsecondary nondegree award
+"  Coin, vending, and amusement machine servicers and repairers",High school diploma or equivalent
+  Commercial divers,Postsecondary nondegree award
+  Locksmiths and safe repairers,High school diploma or equivalent
+  Manufactured building and mobile home installers,High school diploma or equivalent
+  Riggers,High school diploma or equivalent
+  Signal and track switch repairers,High school diploma or equivalent
+"  Helpers--installation, maintenance, and repair workers",High school diploma or equivalent
+"  Installation, maintenance, and repair workers, all other[2]",High school diploma or equivalent
+  First-line supervisors of production and operating workers,High school diploma or equivalent
+"  Aircraft structure, surfaces, rigging, and systems assemblers",High school diploma or equivalent
+"  Coil winders, tapers, and finishers",High school diploma or equivalent
+"  Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",High school diploma or equivalent
+  Engine and other machine assemblers,High school diploma or equivalent
+  Structural metal fabricators and fitters,High school diploma or equivalent
+  Fiberglass laminators and fabricators,High school diploma or equivalent
+  Timing device assemblers and adjusters,High school diploma or equivalent
+  Miscellaneous assemblers and fabricators[2],High school diploma or equivalent
+  Bakers,No formal educational credential
+  Butchers and meat cutters,No formal educational credential
+"  Meat, poultry, and fish cutters and trimmers",No formal educational credential
+  Slaughterers and meat packers,No formal educational credential
+"  Food and tobacco roasting, baking, and drying machine operators and tenders",No formal educational credential
+  Food batchmakers,High school diploma or equivalent
+  Food cooking machine operators and tenders,High school diploma or equivalent
+"  Food processing workers, all other[2]",No formal educational credential
+"  Extruding and drawing machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Forging machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Rolling machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Drilling and boring machine tool setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Lathe and turning machine tool setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Milling and planing machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+  Machinists,High school diploma or equivalent
+  Metal-refining furnace operators and tenders,High school diploma or equivalent
+"  Pourers and casters, metal",High school diploma or equivalent
+"  Model makers, metal and plastic",High school diploma or equivalent
+"  Patternmakers, metal and plastic",High school diploma or equivalent
+  Foundry mold and coremakers,High school diploma or equivalent
+"  Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Multiple machine tool setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+  Tool and die makers,Postsecondary nondegree award
+"  Welders, cutters, solderers, and brazers",High school diploma or equivalent
+"  Welding, soldering, and brazing machine setters, operators, and tenders",High school diploma or equivalent
+"  Heat treating equipment setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Layout workers, metal and plastic",High school diploma or equivalent
+"  Plating machine setters, operators, and tenders, metal and plastic",High school diploma or equivalent
+"  Tool grinders, filers, and sharpeners",High school diploma or equivalent
+"  Metal workers and plastic workers, all other[2]",High school diploma or equivalent
+  Prepress technicians and workers,Postsecondary nondegree award
+  Printing press operators,High school diploma or equivalent
+  Print binding and finishing workers,High school diploma or equivalent
+  Laundry and dry-cleaning workers,No formal educational credential
+"  Pressers, textile, garment, and related materials",No formal educational credential
+  Sewing machine operators,No formal educational credential
+  Shoe and leather workers and repairers,High school diploma or equivalent
+  Shoe machine operators and tenders,High school diploma or equivalent
+"  Sewers, hand",No formal educational credential
+"  Tailors, dressmakers, and custom sewers",No formal educational credential
+  Textile bleaching and dyeing machine operators and tenders,High school diploma or equivalent
+"  Textile cutting machine setters, operators, and tenders",High school diploma or equivalent
+"  Textile knitting and weaving machine setters, operators, and tenders",High school diploma or equivalent
+"  Textile winding, twisting, and drawing out machine setters, operators, and tenders",High school diploma or equivalent
+"  Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",High school diploma or equivalent
+  Fabric and apparel patternmakers,High school diploma or equivalent
+  Upholsterers,High school diploma or equivalent
+"  Textile, apparel, and furnishings workers, all other[2]",High school diploma or equivalent
+  Cabinetmakers and bench carpenters,High school diploma or equivalent
+  Furniture finishers,High school diploma or equivalent
+"  Model makers, wood",High school diploma or equivalent
+"  Patternmakers, wood",High school diploma or equivalent
+"  Sawing machine setters, operators, and tenders, wood",High school diploma or equivalent
+"  Woodworking machine setters, operators, and tenders, except sawing",High school diploma or equivalent
+"  Woodworkers, all other[2]",High school diploma or equivalent
+  Nuclear power reactor operators,High school diploma or equivalent
+  Power distributors and dispatchers,High school diploma or equivalent
+  Power plant operators,High school diploma or equivalent
+  Stationary engineers and boiler operators,High school diploma or equivalent
+  Water and wastewater treatment plant and system operators,High school diploma or equivalent
+  Chemical plant and system operators,High school diploma or equivalent
+  Gas plant operators,High school diploma or equivalent
+"  Petroleum pump system operators, refinery operators, and gaugers",High school diploma or equivalent
+"  Plant and system operators, all other[2]",High school diploma or equivalent
+  Chemical equipment operators and tenders,High school diploma or equivalent
+"  Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",High school diploma or equivalent
+"  Crushing, grinding, and polishing machine setters, operators, and tenders",High school diploma or equivalent
+"  Grinding and polishing workers, hand",No formal educational credential
+"  Mixing and blending machine setters, operators, and tenders",High school diploma or equivalent
+"  Cutters and trimmers, hand",No formal educational credential
+"  Cutting and slicing machine setters, operators, and tenders",High school diploma or equivalent
+"  Extruding, forming, pressing, and compacting machine setters, operators, and tenders",High school diploma or equivalent
+"  Furnace, kiln, oven, drier, and kettle operators and tenders",High school diploma or equivalent
+"  Inspectors, testers, sorters, samplers, and weighers",High school diploma or equivalent
+  Jewelers and precious stone and metal workers,High school diploma or equivalent
+  Dental laboratory technicians,High school diploma or equivalent
+  Medical appliance technicians,High school diploma or equivalent
+  Ophthalmic laboratory technicians,High school diploma or equivalent
+  Packaging and filling machine operators and tenders,High school diploma or equivalent
+"  Painting, coating, and decorating workers",No formal educational credential
+"  Coating, painting, and spraying machine setters, operators, and tenders",High school diploma or equivalent
+  Semiconductor processing technicians,High school diploma or equivalent
+  Photographic process workers and processing machine operators,High school diploma or equivalent
+  Computer numerically controlled tool operators,High school diploma or equivalent
+  Computer numerically controlled tool programmers,Postsecondary nondegree award
+  Adhesive bonding machine operators and tenders,High school diploma or equivalent
+"  Cleaning, washing, and metal pickling equipment operators and tenders",High school diploma or equivalent
+  Cooling and freezing equipment operators and tenders,High school diploma or equivalent
+  Etchers and engravers,High school diploma or equivalent
+"  Molders, shapers, and casters, except metal and plastic",High school diploma or equivalent
+"  Paper goods machine setters, operators, and tenders",High school diploma or equivalent
+  Tire builders,High school diploma or equivalent
+  Helpers--production workers,High school diploma or equivalent
+"  Production workers, all other[2]",High school diploma or equivalent
+  Aircraft cargo handling supervisors,High school diploma or equivalent
+"  First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors[2]",High school diploma or equivalent
+"  Airline pilots, copilots, and flight engineers",Bachelor's degree
+  Commercial pilots,Postsecondary nondegree award
+  Air traffic controllers,Associate's degree
+  Airfield operations specialists,High school diploma or equivalent
+  Flight attendants,High school diploma or equivalent
+"  Ambulance drivers and attendants, except emergency medical technicians",High school diploma or equivalent
+  Driver/sales workers,High school diploma or equivalent
+  Heavy and tractor-trailer truck drivers,Postsecondary nondegree award
+  Light truck drivers,High school diploma or equivalent
+"  Bus drivers, school[2]",High school diploma or equivalent
+"  Bus drivers, transit and intercity",High school diploma or equivalent
+  Shuttle drivers and chauffeurs[2],No formal educational credential
+  Taxi drivers[2],No formal educational credential
+"  Motor vehicle operators, all other[2]",No formal educational credential
+  Locomotive engineers,High school diploma or equivalent
+"  Rail yard engineers, dinkey operators, and hostlers",High school diploma or equivalent
+"  Railroad brake, signal, and switch operators and locomotive firers",High school diploma or equivalent
+  Railroad conductors and yardmasters,High school diploma or equivalent
+  Subway and streetcar operators,High school diploma or equivalent
+"  Rail transportation workers, all other[2]",High school diploma or equivalent
+  Sailors and marine oilers,No formal educational credential
+"  Captains, mates, and pilots of water vessels",Postsecondary nondegree award
+  Motorboat operators,Postsecondary nondegree award
+  Ship engineers,Postsecondary nondegree award
+  Bridge and lock tenders,High school diploma or equivalent
+  Parking attendants,No formal educational credential
+  Automotive and watercraft service attendants,No formal educational credential
+  Aircraft service attendants[2],High school diploma or equivalent
+  Traffic technicians,High school diploma or equivalent
+  Transportation inspectors,High school diploma or equivalent
+  Passenger attendants,High school diploma or equivalent
+"  Transportation workers, all other[2]",High school diploma or equivalent
+  Conveyor operators and tenders,No formal educational credential
+  Crane and tower operators,High school diploma or equivalent
+  Dredge operators,High school diploma or equivalent
+  Hoist and winch operators,No formal educational credential
+  Industrial truck and tractor operators,No formal educational credential
+  Cleaners of vehicles and equipment,No formal educational credential
+"  Laborers and freight, stock, and material movers, hand",No formal educational credential
+  Machine feeders and offbearers,No formal educational credential
+"  Packers and packagers, hand",No formal educational credential
+  Stockers and order fillers,High school diploma or equivalent
+  Gas compressor and gas pumping station operators,High school diploma or equivalent
+"  Pump operators, except wellhead pumpers",High school diploma or equivalent
+  Wellhead pumpers,High school diploma or equivalent
+  Refuse and recyclable material collectors,No formal educational credential
+"  Tank car, truck, and ship loaders",No formal educational credential
+"  Material moving workers, all other[2]",No formal educational credential
+Footnotes:,
+"[1] Data are from the Occupational Employment and Wage Statistics program, U.S. Bureau of Labor Statistics. Wage data cover non-farm wage and salary workers and do not cover the self-employed, owners and partners in unincorporated firms, or household workers.",
+[2] Skills information from similar O*NET-SOC occupation(s) imputed for this occupation. More information can be found in the Crosswalk of O*NET-SOC occupations to National Employment Matrix occupations for skills mapping file: https://www.bls.gov/emp/skills/ep_skill_nem_onet_crosswalks.xlsx.,
+Note: Skills scores range from 1.0 (Not important) to 5.0 (Extremely important). More information can be found on the EP definitions page: https://www.bls.gov/emp/documentation/definitions.htm.,
+"Note: Data is unavailable for values denoted with a ""—"".",
+"Source: Employment Projections program, U.S. Bureau of Labor Statistics",
